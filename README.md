@@ -102,3 +102,10 @@ dependencies {
 
 ## License
 Kotlin Telegram Bot is under the Apache 2.0 license. See the [LICENSE](LICENSE) for more information.
+
+
+## Publish
+
+```shell
+./gradlew clean build publishToMavenLocal
+```
